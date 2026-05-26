@@ -47,3 +47,6 @@ Based on a template by [Read Only by HTML5 UP](http://html5up.net)
 ## License
 
 This project includes the original HTML5 UP template license. See `LICENSE.txt` for details.
+
+## Project planning
+See `PLAN.md` for the current development plan and upcoming features.
